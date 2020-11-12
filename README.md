@@ -8,6 +8,6 @@ In this lesson assignment we're going to be taking off from the end of lesson ta
 
 In this lesson task you are going to create the other HTML files for the project, link them together, as well as linking to the images in the HTML.
 
-By the end of this lesson task, you should have created the Guitars, Contact and Guitar specific page and linked them together. Don't add the contact form just yet, we'll do a video on specifically that.
+By the end of this lesson task, you should have created the Guitars, Contact and Guitar specific page and linked them together. Don't add the contact form just yet, we'll do a video on that specifically.
 
 When you have finished building the pages, switch across to the 'answers' branch to see how you could have completed the lesson task.
