@@ -1,1 +1,13 @@
-# lesson-task-htmlcss-module1-lesson2
+# HTML and CSS - Module 1
+
+## Lesson Task 2 Question
+
+In this lesson assignment we're going to be taking off from the end of lesson task 1.1 where we created the HTML for the index.html page.
+
+### Brief
+
+In this lesson task you are going to create the other HTML files for the project, link them together, as well as linking to the images in the HTML.
+
+By the end of this lesson task, you should have created the Guitars, Contact and Guitar specific page and linked them together.
+
+When you have finished building the pages, switch across to the 'answers' branch to see how you could have completed the lesson task.
