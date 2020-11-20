@@ -16,3 +16,5 @@ By the end of this lesson task, you should have created:
 While building the HTML pages add working links to connect the pages together, as well as linking to the images for the page.
 
 When you have finished building the pages, switch across to the 'answers' branch to see how you could have completed the lesson task.
+
+<img src="https://i.gyazo.com/81728a2ce0d1f8bc1a758db0f3df6428.gif" alt="Image from Gyazo" width="100%"/>
