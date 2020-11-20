@@ -1,6 +1,6 @@
 # HTML and CSS - Module 1
 
-## Lesson Task 2 Question
+## Task 2
 
 In this lesson assignment we're going to be taking off from the end of lesson task 1.1 where we created the HTML for the index.html page.
 
