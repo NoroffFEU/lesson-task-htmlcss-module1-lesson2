@@ -17,4 +17,5 @@ While building the HTML pages add working links to connect the pages together, a
 
 When you have finished building the pages, switch across to the 'answers' branch to see how you could have completed the lesson task.
 
-<img src="https://i.gyazo.com/81728a2ce0d1f8bc1a758db0f3df6428.gif" alt="Image from Gyazo" width="100%"/>
+By the end of the task, your home page should look like this: 
+[![Image from Gyazo](https://i.gyazo.com/90747444e4ded266571a93d4cbe8194d.gif)](https://gyazo.com/90747444e4ded266571a93d4cbe8194d)
