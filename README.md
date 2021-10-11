@@ -11,7 +11,7 @@ In this lesson task you are going to create the other HTML files for the project
 By the end of this lesson task, you should have created:
 - guitars.html with the list of guitars
 - contact.html with just a single h1 (we'll add the form later)
-- adirondack-red.html with the information about the Adirondack Red (we're just adding one version of the product for now). Place adironrdack-red.html into a folder called 'guitars'.
+- adirondack-red.html with the information about the Adirondack Red (we're just adding one version of the product for now). Place adironrdack-red.html into a folder called 'products'.
 
 While building the HTML pages add working links to connect the pages together, as well as linking to the images for the page.
 
